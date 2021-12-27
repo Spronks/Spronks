@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱 I’m currently learning Javascript...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spronks&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
