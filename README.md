@@ -6,16 +6,16 @@
 ![](https://komarev.com/ghpvc/?username=Spronks)
 
 
-## :telescope:  About me 
+## :telescope: About me 
 
 I'm a self-taught developer with a background in physics. 
 I'm currently learning Front-end programming.
 
-## :satellite:  Job status
+## :satellite: Job status
 
 I'm available to work.
 
-## 🛠️  Skills
+## 🛠️ Skills
 
 #### Languages
 
@@ -36,7 +36,7 @@ I'm available to work.
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 
-## 👽  Contact
+## 👽 Contact
 You can reach me at: ntassop@gmail.com
 
 
